@@ -141,7 +141,7 @@ MonoBehaviour:
   m_MinSize: {x: 202, y: 344}
   m_MaxSize: {x: 4002, y: 8044}
   vertical: 1
-  controlID: 33
+  controlID: 55
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -306,17 +306,17 @@ MonoBehaviour:
   m_MaximizeOnPlay: 0
   m_Gizmos: 1
   m_Stats: 0
-  m_SelectedSizes: 08000000000000000000000009000000000000000000000000000000000000000000000000000000
+  m_SelectedSizes: 0800000000000000000000000a000000000000000000000000000000000000000000000000000000
   m_TargetDisplay: 0
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
-    m_HBaseRangeMin: -960
-    m_HBaseRangeMax: 960
-    m_VBaseRangeMin: -540
-    m_VBaseRangeMax: 540
+    m_HBaseRangeMin: -1280
+    m_HBaseRangeMax: 1280
+    m_VBaseRangeMin: -720
+    m_VBaseRangeMax: 720
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -336,7 +336,7 @@ MonoBehaviour:
       y: 17
       width: 589
       height: 905
-    m_Scale: {x: 0.30677083, y: 0.30677083}
+    m_Scale: {x: 0.23007813, y: 0.23007813}
     m_Translation: {x: 294.5, y: 452.5}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -344,12 +344,12 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -960
-      y: -1475.0425
-      width: 1920
-      height: 2950.085
+      x: -1280
+      y: -1966.7233
+      width: 2560
+      height: 3933.4465
     m_MinimalGUI: 1
-  m_defaultScale: 0.30677083
+  m_defaultScale: 0.23007813
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
   m_LastWindowPixelSize: {x: 589, y: 922}
@@ -388,7 +388,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 76fbffff
+      m_ExpandedIDs: 7ceaffffb8eaffff4eebffff76fbfffff83d0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -645,9 +645,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0.45723486, y: 0.0066709467, z: -0.0034316883, w: 0.8893144}
   m_Size:
-    m_Target: 5.670838
+    m_Target: 8.806638
     speed: 2
-    m_Value: 5.670838
+    m_Value: 8.806638
   m_Ortho:
     m_Target: 1
     speed: 2
